@@ -14,6 +14,7 @@ menu = {
        "Pizza Hải Sản": 150000,"Pizza cá": 500000,
        "Mì Ý Bò Bằm": 95000,"GÀ CHIÊN MẮM TỎI":29000,
        "Burger Gà": 35000,
+       "Bánh canh cua": 30000,
        "Bít tết Bò Mỹ": 250000,
        "Sườn nướng BBQ": 150000,
        "Cánh gà chiên mắm": 75000,
